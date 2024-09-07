@@ -5,4 +5,4 @@ Liberty University Online
 
 Student: Daniel J.
 
-This course equips the GIS user with a set of automation and programming skills to assit in GIS tasks.
+This course equips the GIS user with a set of automation and programming skills to assist in GIS tasks.
